@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8a685450.css",
+    "main.js": "/static/js/main.afa58c34.js",
+    "static/media/backdrop.jpg": "/static/media/backdrop.2476d480df528b44ef50.jpg",
+    "static/media/tv.m4v": "/static/media/tv.053994fc9a5da7a97b5b.m4v",
+    "static/media/kids.png": "/static/media/kids.7e9c0c2fccea936cef07.png",
+    "static/media/devices.png": "/static/media/devices.8e6539e8bfc6937a0648.png",
+    "static/media/mobile.jpg": "/static/media/mobile.063578d5b6d5ab4155ec.jpg",
+    "static/media/tv.png": "/static/media/tv.0049bc70babc1f94cf88.png",
+    "static/media/netflix.svg": "/static/media/netflix.5787551b8de42aef368c379572555ada.svg",
+    "index.html": "/index.html",
+    "main.8a685450.css.map": "/static/css/main.8a685450.css.map",
+    "main.afa58c34.js.map": "/static/js/main.afa58c34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a685450.css",
+    "static/js/main.afa58c34.js"
+  ]
+}
